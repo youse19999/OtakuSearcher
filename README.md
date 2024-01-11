@@ -1,2 +1,4 @@
 # YoutubeJapaneseMinusTag
 Youtubeのマイナスタグ用
+Youtubeのアルゴリズム上検索上位に必ず現れる関係のない動画を消すタグのGitです。
+適当に増やしていきます。
